@@ -1,0 +1,21 @@
+QAP 1 Front end:
+
+Will do project on Toyota Tacoma. I worked at Toyota Plaza selling vehicles so I'm pretty familiar with them and theyre history.
+
+index/landing page;
+    - Tacoma grill on background of site, maybe fading in on site enter?
+    - Flex box rectangle in front, 80ish % opacity
+    - 'Welcome to Tacoma' 
+    - History page
+    - Specs page
+    - Reviews and awards page (youtube videos and video links)
+    - Book app with closest dealer
+    - gallery
+
+General ideas:
+    - TRD Colors? yellow orange red black
+    - 'through the years' with the major remodels, maybe fading in out/ on click etc
+    - make sure to include some audio
+    - Squoosh if needed
+    - No RED elements
+    - Comments at beginning
