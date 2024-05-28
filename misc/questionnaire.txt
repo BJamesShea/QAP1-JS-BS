@@ -1,0 +1,23 @@
+Q: How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
+
+A: Roughly 8 to 10 hours. Most of the time was spent blocking the flexbox grid.
+
+
+Q: What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
+
+A: Not much. Of course I was present for your lectures, but I didn't need to reference much material.
+
+
+Q: Did you need to ask any of your friends in solving the problems. (If yes, please mention name of the friend. They must be amongst your class fellows.)
+
+A: I did not require any assistance for this assignment.
+
+Q: Did you need to ask questions to any of your instructors? If so, how many questions did you ask (or how many help sessions did you require)?
+
+A: I did not require any assistance for this assignment.
+
+Q: Rate (subjectively) the difficulty of Making this all! from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
+
+A: I would probably call it a 5 to a 6 out of 10. It wasn't particularly hard, I mostly just struggle with being ' creative. ' I was also sick a little while ago, so I had to catch up on our course work, hence the delay in submitting. 
+
+I think I could tackle most basic webpages involving HTML/CSS and flexbox.

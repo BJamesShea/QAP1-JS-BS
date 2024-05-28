@@ -1,0 +1,7 @@
+Hey Noman!
+
+Brandon here. Sorry this assignment was a little late getting in. I asked for an extension and it was granted so I'm sure you're aware but still. I got a little bit sick a few weeks ago, and ran into some personal problems that hampered my ability to focus. I've spent a few weeks trying to catch up, it's been a little tough but I'm getting there.
+
+As for the website, make sure to hover over the truck picture on the home page, and watch out for the volume! I attached a script to make the truck light up and an audio clip, so be careful on volume.
+
+Thanks!

@@ -17,7 +17,7 @@ General ideas:
     - 'through the years' with the major remodels, maybe fading in out/ on click etc
     - make sure to include some audio
     - Squoosh if needed
-    - No RED elements
+    - No 'RED' elements
     - Comments at beginning
 
 
