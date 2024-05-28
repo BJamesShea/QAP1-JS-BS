@@ -137,3 +137,22 @@ body p {
   font-size: 48px;
   text-align: center;
 }
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.flex-item {
+  flex: 1 0 20%;
+  margin: 10px;
+  text-align: center;
+}
+
+.flex-item p {
+  font-size: 18px;
+  width: 85%;
+  margin: auto;
+  line-height: 1.5;
+}
