@@ -37,6 +37,7 @@ main {
   align-items: center;
   color: #c1c1c1;
   padding: 10px;
+  margin-bottom: 40px;
 }
 
 nav,
@@ -126,7 +127,13 @@ body p {
 }
 
 .introBlurb {
+  width: 85%;
   font-size: 18px;
-  line-height: 105%;
+  line-height: 1.5;
+  text-align: center;
+}
+
+#welcomeBlurb {
+  font-size: 48px;
   text-align: center;
 }
