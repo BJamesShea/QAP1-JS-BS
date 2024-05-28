@@ -176,3 +176,16 @@ footer {
   justify-content: center;
   margin-top: 20px;
 }
+
+#constructBackground {
+  background-color: #202b38;
+}
+
+#constructH1 {
+  color: #c1c1c1;
+}
+
+#constructHomeLink {
+  color: #c1c1c1;
+  text-decoration: none;
+}
