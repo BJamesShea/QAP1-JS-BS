@@ -170,3 +170,9 @@ main {
 footer {
   flex-shrink: 0;
 }
+
+.video-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
