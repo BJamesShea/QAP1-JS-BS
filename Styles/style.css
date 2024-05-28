@@ -81,3 +81,16 @@ nav,
   display: flex;
   align-items: center;
 }
+
+#loginField {
+  background-color: #c1c1c1;
+}
+
+#loginButton {
+  background-color: #ffffff;
+  transition: 0.5s;
+}
+
+#loginButton:hover {
+  background-color: #e12a2a;
+}
